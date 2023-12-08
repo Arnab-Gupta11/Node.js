@@ -1,0 +1,17 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "this is used for learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Arnab Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "random-fruits-name": "^1.9.6"
+  }
+}
